@@ -20,8 +20,7 @@ const perguntas = [
             {
                 texto:  "Expansão de bancos de alimentos e combate ao desperdício comercial. 
 ",
-                afirmacao: "💧 Guardião das Águas Valoriza a proteção dos rios e nascentes, reconhecendo que a água é essencial para a vida e para o equilíbrio dos ecossistemas.",
-                "PERFIL A: O Educador / Focado na Infância. Aluno que enxerga a escola como o principal pilar de transformação social e nutrição infantil diária.", 
+                afirmacao:   "PERFIL A: O Educador / Focado na Infância. Aluno que enxerga a escola como o principal pilar de transformação social e nutrição infantil diária.", 
 "PERFIL B: O Ativista Comunitário. Aluno centrado na mobilização de vizinhanças, trabalho coletivo, auto-organização de bairros e soberania alimentar local.",
             }    
         
