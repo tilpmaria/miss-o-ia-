@@ -27,39 +27,39 @@ const perguntas = [
     },
     {
        
-            enunciado: "Como você contribui para a proteção ambiental?",
+            enunciado: "De que forma a inovação e o planejamento econômico podem ser utilizados para reduzir o custo dos alimentos essenciais?",
 
             alternativas: [
                 {
-                    texto: "Reduzindo o consumo de água e energia.",
-                    afirmacao: " O(a) Economizador(a) Consciente:Pessoa que procura evitar desperdícios e utiliza água e energia de maneira responsável.",
-                  "Consumidor sustentável que combate o desperdício, utilizando água e energia de forma planejada e inteligente."
+                    texto: "Incentivo à tecnologia verde e técnicas agrícolas sustentáveis para pequenos produtores.",
+                    afirmacao: " PERFIL A: O Cientista / Inovador de Agrotech. Aluno voltado para pesquisas, ciência aplicada, tecnologia agrícola, agronomia e automação no cultivo.",
+                  "PERFIL B: O Defensor do Meio Ambiente. Aluno focado em sustentabilidade, preservação de recursos naturais, redução do uso de agrotóxicos e agroecologia"
 
                 },
                 {
-                    texto:  "Reduzindo o uso de produtos descartáveis.",
-                    afirmacao: "O(a) Redutor(a) de Resíduos:Pessoa que prefere produtos reutilizáveis e busca produzir menos lixo no cotidiano.",
-                  "Consumidor sustentável que prioriza itens duráveis para diminuir a geração de lixo diário."
+                    texto:  ": Isenção de impostos sobre a cesta básica e subsídios diretos a produtos da agricultura familiar.",
+                    afirmacao: "O Economista do Setor Público. Aluno focado em política fiscal, arrecadação, tributação justa e impacto macroeconômico na renda das famílias.",
+                  "O Humanista / Protetor Social. Aluno preocupado com o socorro financeiro imediato às famílias em extrema pobreza, visando o alívio rápido do orçamento familiar."
 
                 }
             ]
         },
         {
-            enunciado: " Como você ajudaria a reduzir a poluição?",
+            enunciado: " Como a geração de trabalho e renda pode ser conectada diretamente à superação da fome nas periferias?",
 
 
             alternativas: [
                 {
-                    texto: " Utilizaria bicicleta ou caminharia quando possível.",
-                    afirmacao: "O(a) Mobilizador(a) Sustentável:Pessoa que valoriza formas de transporte mais sustentáveis no dia a dia.",
-                  "Cidadão consciente que prioriza o transporte limpo, como a bicicleta e a caminhada, na rotina urbana."
+                    texto: " Criação de cooperativas de trabalho e microcrédito voltados a cozinhas comunitárias e hortas urbanas.",
+                    afirmacao: "O Empreendedor de Impacto Social. Aluno interessado em modelos de negócios inclusivos, financiamento coletivo, microcrédito e geração de renda produtiva.",
+                  "O Líder da Economia Solidária. Aluno focado em cooperativismo, igualdade de oportunidades, empoderamento das periferias e autonomia financeira local."
 
                 }
                 {
-                    texto:    "Utilizaria transporte coletivo.",
+                    texto:    "Incentivo fiscal para empresas privadas destinarem doações e investirem em refeitórios populares.",
                
-                    afirmacao: " O(a) Usuário(a) Consciente:Pessoa que considera alternativas de transporte que podem diminuir o impacto ambiental.",
-                " Escolhe meios de transporte alternativos e eficientes para diminuir as emissões de carbono na rotina"
+                    afirmacao: " O Gestor Estratégico Corporativo. Aluno orientado a negócios, eficiência operacional, logística em grande escala e aplicação prática de diretrizes ESG.",
+                " O Articulador Político-Institucional. Aluno focado em parcerias público-privadas (PPPs), diplomacia institucional, leis de incentivo fiscal e alianças de grande porte."
 
         }    
                
