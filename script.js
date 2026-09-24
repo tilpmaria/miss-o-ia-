@@ -7,24 +7,24 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "De que maneira as ações de preservação ambiental podem contribuir para a manutenção do equilíbrio dos ecossistemas?",
+        enunciado: "De que maneira a sociedade e o poder público podem atuar conjuntamente para erradicar a extrema pobreza e garantir alimentação saudável e acessível para todos?",
         alternativas: [
             {
-                texto: "A preservação das florestas contribui para a proteção dos habitats naturais e para a conservação da biodiversidade",
+                texto: "Fortalecimento de programas de transferência de renda integrados ao incentivo à agricultura familiar local.
+",
                
-             afirmacao: "Guardião das Florestas Valoriza a preservação das florestas, reconhecendo sua importância para proteger os habitats, os animais, as plantas e a biodiversidade.",
-            "Protetor ambiental focado na conservação das florestas, garantindo o refúgio da fauna, da flora e de toda a biodiversidade."
+             afirmacao: "Perfil Técnico-Sustentável. Aluno focado em soluções estruturais, desenvolvimento regional, logística urbana/rural e garantias de condições básicas de sobrevivência."
 
             },
         
             {
-                texto:  "A proteção dos rios e nascentes contribui para a conservação dos recursos hídricos e dos seres vivos que dependem deles.",
+                texto:  "Expansão de bancos de alimentos e combate ao desperdício comercial. 
+",
                 afirmacao: "💧 Guardião das Águas Valoriza a proteção dos rios e nascentes, reconhecendo que a água é essencial para a vida e para o equilíbrio dos ecossistemas.",
-                "Protetor de rios e nascentes focado na segurança hídrica e ambiental do planeta."
-
+                "PERFIL A: O Educador / Focado na Infância. Aluno que enxerga a escola como o principal pilar de transformação social e nutrição infantil diária.", 
+"PERFIL B: O Ativista Comunitário. Aluno centrado na mobilização de vizinhanças, trabalho coletivo, auto-organização de bairros e soberania alimentar local.",
             }    
-           
-        ]
+        
     },
     {
        
