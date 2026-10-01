@@ -7,10 +7,10 @@ export const perguntas = [
                
              afirmacao: ["Perfil Técnico-Sustentável. Aluno focado em soluções estruturais, desenvolvimento regional, logística urbana/rural e garantias de condições básicas de sobrevivência."
              ]
-
+            
 
             },
-        
+        ]
             {
                 texto:  "Expansão de bancos de alimentos e combate ao desperdício comercial. ",
                 afirmacao:  ["PERFIL A: O Educador / Focado na Infância. Aluno que enxerga a escola como o principal pilar de transformação social e nutrição infantil diária.", 
