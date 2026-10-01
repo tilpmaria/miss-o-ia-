@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "De que maneira a sociedade e o poder público podem atuar conjuntamente para erradicar a extrema pobreza e garantir alimentação saudável e acessível para todos?",
         alternativas: [
