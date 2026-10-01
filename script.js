@@ -10,20 +10,18 @@ const perguntas = [
         enunciado: "De que maneira a sociedade e o poder público podem atuar conjuntamente para erradicar a extrema pobreza e garantir alimentação saudável e acessível para todos?",
         alternativas: [
             {
-                texto: "Fortalecimento de programas de transferência de renda integrados ao incentivo à agricultura familiar local.
-",
+                texto: "Fortalecimento de programas de transferência de renda integrados ao incentivo à agricultura familiar local.",
                
              afirmacao: "Perfil Técnico-Sustentável. Aluno focado em soluções estruturais, desenvolvimento regional, logística urbana/rural e garantias de condições básicas de sobrevivência."
 
             },
         
             {
-                texto:  "Expansão de bancos de alimentos e combate ao desperdício comercial. 
-",
+                texto:  "Expansão de bancos de alimentos e combate ao desperdício comercial. ",
                 afirmacao:   "PERFIL A: O Educador / Focado na Infância. Aluno que enxerga a escola como o principal pilar de transformação social e nutrição infantil diária.", 
 "PERFIL B: O Ativista Comunitário. Aluno centrado na mobilização de vizinhanças, trabalho coletivo, auto-organização de bairros e soberania alimentar local.",
             }    
-        
+        ]
     },
     {
        
