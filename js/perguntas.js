@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Fortalecimento de programas de transferência de renda integrados ao incentivo à agricultura familiar local.",
                
-             afirmacao: ["Perfil Técnico-Sustentável. Aluno focado em soluções estruturais, desenvolvimento regional, logística urbana/rural e garantias de condições básicas de sobrevivência."
+             afirmacao: ["Perfil Técnico-Sustentável. Aluno focado em soluções estruturais, desenvolvimento regional, logística urbana/rural e garantias de condições básicas de sobrevivência.",
              ]
             
 
@@ -28,7 +28,7 @@ export const perguntas = [
                 {
                     texto: "Incentivo à tecnologia verde e técnicas agrícolas sustentáveis para pequenos produtores.",
                     afirmacao:[ " PERFIL A: O Cientista / Inovador de Agrotech. Aluno voltado para pesquisas, ciência aplicada, tecnologia agrícola, agronomia e automação no cultivo.",
-                  "PERFIL B: O Defensor do Meio Ambiente. Aluno focado em sustentabilidade, preservação de recursos naturais, redução do uso de agrotóxicos e agroecologia"
+                  "PERFIL B: O Defensor do Meio Ambiente. Aluno focado em sustentabilidade, preservação de recursos naturais, redução do uso de agrotóxicos e agroecologia",
             ]
 
 
@@ -36,7 +36,7 @@ export const perguntas = [
                 {
                     texto:  ": Isenção de impostos sobre a cesta básica e subsídios diretos a produtos da agricultura familiar.",
                     afirmacao: ["O Economista do Setor Público. Aluno focado em política fiscal, arrecadação, tributação justa e impacto macroeconômico na renda das famílias.",
-                  "O Humanista / Protetor Social. Aluno preocupado com o socorro financeiro imediato às famílias em extrema pobreza, visando o alívio rápido do orçamento familiar."
+                  "O Humanista / Protetor Social. Aluno preocupado com o socorro financeiro imediato às famílias em extrema pobreza, visando o alívio rápido do orçamento familiar.",
 
                     ]
                 }
@@ -50,7 +50,7 @@ export const perguntas = [
                 {
                     texto: " Criação de cooperativas de trabalho e microcrédito voltados a cozinhas comunitárias e hortas urbanas.",
                     afirmacao: ["O Empreendedor de Impacto Social. Aluno interessado em modelos de negócios inclusivos, financiamento coletivo, microcrédito e geração de renda produtiva.",
-                  "O Líder da Economia Solidária. Aluno focado em cooperativismo, igualdade de oportunidades, empoderamento das periferias e autonomia financeira local."
+                  "O Líder da Economia Solidária. Aluno focado em cooperativismo, igualdade de oportunidades, empoderamento das periferias e autonomia financeira local.",
                     ]
 
                 }
@@ -58,7 +58,7 @@ export const perguntas = [
                     texto:    "Incentivo fiscal para empresas privadas destinarem doações e investirem em refeitórios populares.",
                
                     afirmacao: [" O Gestor Estratégico Corporativo. Aluno orientado a negócios, eficiência operacional, logística em grande escala e aplicação prática de diretrizes ESG.",
-                " O Articulador Político-Institucional. Aluno focado em parcerias público-privadas (PPPs), diplomacia institucional, leis de incentivo fiscal e alianças de grande porte."
+                " O Articulador Político-Institucional. Aluno focado em parcerias público-privadas (PPPs), diplomacia institucional, leis de incentivo fiscal e alianças de grande porte.",
 
                     ]
 
