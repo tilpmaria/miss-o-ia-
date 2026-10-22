@@ -9,20 +9,27 @@ const textoResultado = document.querySelector(".texto-resultado");
 const botaoJogarNovamente = document.querySelector(".novamente-btn");
 
 
+
+
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
+
+
 
 function mostraPergunta(){
     if(atual >= perguntas.length){
         mostraResultado();
         return;
     }
+
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
     caixaAlternativas.textContent = "";
     mostraAlternativas();
 }
+
+
 function mostraAlternativas(){
     for(const alternativa of perguntaAtual.alternativas){
         const botaoAlternativas = document.createElement("button");
@@ -54,6 +61,7 @@ function mostraResultado(){
 function jogaNovamente(){
     atual = 0;
     historiaFinal = "";
+    caixaResultado.classList.remove("mostrar");
     mostraPergunta();
 }
 
