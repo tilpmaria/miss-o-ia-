@@ -57,7 +57,7 @@ export const perguntas = [
                 {
                     texto:    "Incentivo fiscal para empresas privadas destinarem doações e investirem em refeitórios populares.",
                
-                    afirmacao: [" O Gestor Estratégico Corporativo. Aluno orientado a negócios, eficiência operacional, logística em grande escala e aplicação prática de diretrizes ESG.",
+                    afirmacao: [" O Gestor Estratégico Corporativo. Aluno orientado a negócios, eficiência operacional, logística em grande escala e aplicação prática de diretrizes ESG."
                 " O Articulador Político-Institucional. Aluno focado em parcerias público-privadas (PPPs), diplomacia institucional, leis de incentivo fiscal e alianças de grande porte."
 
                     ]
