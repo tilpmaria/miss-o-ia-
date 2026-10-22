@@ -53,7 +53,7 @@ export const perguntas = [
                   "O Líder da Economia Solidária. Aluno focado em cooperativismo, igualdade de oportunidades, empoderamento das periferias e autonomia financeira local.",
                     ]
 
-                }
+                },
                 {
                     texto:    "Incentivo fiscal para empresas privadas destinarem doações e investirem em refeitórios populares.",
                
