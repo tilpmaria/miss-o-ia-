@@ -5,14 +5,17 @@
   --cor-destaque: #490a0a;
   --cor-texto: #D7F9FF;
 }
+
 body {
-  background-color: var(--cor-fundo);
-  color: var(--cor-texto);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+background-color: var(--cor-fundo);
+color: var(--cor-texto);
+font-family: 'Inter', sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
 }
+
 .caixa-principal {
   background-color: var(--cor-principal);
   width: 90%;
